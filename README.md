@@ -1,5 +1,5 @@
-# Windows Alias
+# Windows Aliases
 
-## Add Environment Path
+## Add Path
 
     C:\Users\Admin\.alias
